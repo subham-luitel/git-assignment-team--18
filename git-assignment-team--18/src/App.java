@@ -49,5 +49,11 @@ class Car {
         
         car1.accelerate();
         car1.printData(); 
-    }
-}
+
+         // Adding a new car "Toyota"
+         Car car3 = new Car("Toyota", "Corolla", 50);
+         car3.printData(); 
+     }
+ }
+    
+
