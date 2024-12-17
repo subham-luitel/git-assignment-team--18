@@ -53,6 +53,10 @@ class Car {
          // Adding a new car "Toyota"
          Car car3 = new Car("Toyota", "Corolla", 50);
          car3.printData(); 
+         
+    // Adding a new car type "BMW"
+    Car car4=new Car("Bmw","1050",100);
+    car4.printData();
      }
  }
     
