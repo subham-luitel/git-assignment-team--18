@@ -38,7 +38,7 @@ class Car {
 
     public static void main(String[] args) {
 
-        Car car1 = new Car("Fiat", "500", 60);
+        Car car1 = new Car("Fiat", "200", 60);
         car1.printData(); 
         
         Car car2 = new Car();
